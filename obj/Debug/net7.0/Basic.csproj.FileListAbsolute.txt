@@ -28,3 +28,4 @@ C:\Users\onura\Desktop\Backend\Basic\obj\Debug\net7.0\refint\Basic.dll
 C:\Users\onura\Desktop\Backend\Basic\obj\Debug\net7.0\Basic.pdb
 C:\Users\onura\Desktop\Backend\Basic\obj\Debug\net7.0\Basic.genruntimeconfig.cache
 C:\Users\onura\Desktop\Backend\Basic\obj\Debug\net7.0\ref\Basic.dll
+C:\Users\onura\Desktop\Backend\Basic\obj\Debug\net7.0\Basic.sourcelink.json
