@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "oURlwpU7SahIOVeonOmUK55uiUsh/mSztfUhFF2n6Qr09o4VKmK6vr31C+SQESY7wuH9jYEopPm0CgUgUSst7g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\onura\\Desktop\\Backend\\Basic\\Basic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\onura\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\onura\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\onura\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\onura\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.15\\microsoft.netcore.app.host.win-x64.7.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
